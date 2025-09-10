@@ -1,7 +1,7 @@
 ---
 title: "Welcome to R-Ladies St. Louis"
-subtitle: "Git and GitHub for R Users"
-date: "April 23, 2025"
+subtitle: "R You Triggered? Using R to Find Words That Sink Grants"
+date: "September 10, 2025"
 format: rladies-revealjs
 self-contained: true
 ---
@@ -79,4 +79,4 @@ Visit **rladies.org** to learn about the mission and global work of R-Ladies
 - Bobbi Carothers is a senior data analyst at the WashU School of Public Health. 
 - She was one of the R experts at the very first R-Ladies St. Louis Meetup in 2017.
 - Her work includes development of online survey tools, analysis, as well as report and paper development. 
-- Prior projects have included evaluations for the National Association of County and City Health Officials; the Rippel Foundation; Transdisciplinary Research on Energetics and Cancer; Communities Putting Prevention to Work; CDC National Networks for Tobacco Control and Prevention; St. Louis Children’s Hospital; Southwest Center for Agricultural Health, Injury Prevention, and Education; and Missouri Foundation for Health.
+- Prior projects have included evaluations for the local, regional, state, and national health organizations.
